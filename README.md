@@ -33,11 +33,8 @@ password : iot1`___
 ******************************************************************************************************************************
 # To Do:-
 
-- To Develop OpenSource Hardware Lab 
+- [To Develop OpenSource Hardware Lab](https://github.com/IoT-PTv/OpenSource-Hardware-Lab)
 - To Develop OS More reliable
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y81EJG9)
 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/v33ruiot)
 
